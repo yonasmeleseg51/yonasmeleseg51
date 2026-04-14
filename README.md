@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yonas</h1>
 <h3 align="center">Software Engineer · Full-Stack Developer · Ethiopia</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Earnify](https://earnifyme.replit.app/)
 
